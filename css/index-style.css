@@ -1,0 +1,25 @@
+body{
+font-family: 'Poppins', sans-serif;
+font-size: 18px;
+font-weight: 700;}
+.container{
+max-width: 1200px;
+
+
+}
+
+.mynavbar{
+background-color: #4741AF;
+
+
+}
+.nav-link
+{color: white;
+}
+.navbar-brand{}
+.bunner{
+    background-color: #4741AF;
+    color: white;
+
+
+}
